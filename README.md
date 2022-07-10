@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mklering
 - 👀 I’m interested in code
-- 🌱 I’m currently learning in jata, to .NET
+- 🌱 I’m currently learning in java, to .NET
 - 💞️ I’m looking to collaborate on Arquitetura de Software
 - 📫 How to reach me marcosklering@gmail.com
 
